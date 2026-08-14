@@ -161,7 +161,7 @@ curl -X POST http://localhost:8000/search -F "file=@query_face.jpg"
 
 <div align="center">
 
-**MIT Licensed** · Built by [Hrishi Kadthala](https://github.com/khrishith)
+**MIT Licensed** · Built by [Hrishith Kadthala](https://github.com/khrishith)
 
 If this project helped you, consider giving it a ⭐
 
