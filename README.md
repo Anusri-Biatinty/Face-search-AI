@@ -157,12 +157,6 @@ curl -X POST http://localhost:8000/search -F "file=@query_face.jpg"
 
 <br/>
 
-## Contributing
-
-Contributions are welcome — fork the repo, create a feature branch, and open a pull request. For larger changes, please open an issue first to discuss the approach.
-
-<br/>
-
 ---
 
 <div align="center">
